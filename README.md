@@ -1,6 +1,8 @@
 # Itaú Unibanco
 Prova Teórica - [Cientista de Dados](https://99jobs.com/itau-unibanco/jobs/98605-cientista-de-dados-banco-de-talentos) - [Itaú Unibanco](https://carreiras.itau.com.br/)
 
+Repositório do código das soluções da prova do processo seletivo do banco Itaú.
+
 
 ORIENTAÇÕES SOBRE A PROVA
 * A prova tem uma parte prática, para a qual o pacote Anaconda é suficiente (escolher R ou Python (preferencialmente))
