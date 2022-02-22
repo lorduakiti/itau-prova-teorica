@@ -23,9 +23,9 @@ ORIENTAÇÕES SOBRE A PROVA
 - 7
 - 8
 - 9
-- [10](q10/README.md)
-- [11](q11/README.md)
-- [12](q12/README.md)
+- [10 - Considerando os dados do arquivo **regressao_Q1.csv**, treine o modelo Elastic Net, fator de regularização igual à 1.0 e parâmetro de mistura igual à 0.01, e utilize como metodologia de reamostragem a técnica validação cruzada sequencial, com 5 folds. Qual é o valor aproximado da média da soma dos quadrados dos erros nas partições de treino e validação, respectivamente.](q10/README.md)
+- [11 - Considerando os dados do arquivo **regressao_Q2.csv**, treine o modelo SVM, kernel: linear, fator de regularização: 0.001, e utilize como metodologia de reamostragem a técnica validação cruzada sequencial, com 5 folds. Qual é a média da métrica MSE nas partições de treino e validação, respectivamente?](q11/README.md)
+- [12 - Assinale a alternativa CORRETA](q12/README.md)
 - 13
 - 14
 - 15
@@ -33,8 +33,8 @@ ORIENTAÇÕES SOBRE A PROVA
 - 17
 - 18 
 - 19
-- [20](q20/README.md)
-- [21](q21/README.md)
+- [20 - Considerando os dados do arquivo **classificacao_Q1.csv**, treine o modelo Árvore de Classificação, função de custo: entropia, sem podas, e utilize como metodologia de reamostragem a técnica validação cruzada sequencial, com 10 folds. Qual é a média da métrica Log Loss nas partições de treino e validação?](q20/README.md)
+- [21 - Considerando os dados do arquivo **classificacao_Q2.csv**, treine o modelo Regressão Logística, tipo de regularização: L2, fator de regularização: .1, e utilize como metodologia de reamostragem a técnica validação cruzada sequencial, com 10 folds. Qual é a média da métrica AUC nas partições de treino e validação?](q21/README.md)
 - 22
 - 23
 - 24
@@ -43,7 +43,7 @@ ORIENTAÇÕES SOBRE A PROVA
 - 27
 - 28 
 - 29
-- [30](q30/README.md)
+- [30 - Considerando os dados no arquivo **agrupamento.csv**, execute o algoritmo hierárquico *Single Linkage*. Qual é a distância entre grupos que, se utilizada como limiar, gera quatro grupos?](q30/README.md)
 
 
  
@@ -97,9 +97,9 @@ ORIENTAÇÕES SOBRE A PROVA
 - [ ] Variáveis aleatórias contínuas e discretas
 - [ ] Função densidade de probabilidade e distribuição acumulada
 - [ ] Propriedades de distribuições: médias, medianas, quartis, moda, variância, etc.
-- [ ] - médias
-- [ ] - medianas
-- [ ] - quartis
+- [x] - médias
+- [x] - medianas
+- [x] - quartis
 - [ ] - moda
 - [ ] - variância
 - [ ] Principais distribuições: Normal, Bernoulli, Binomial, Uniforme, Poisson, Geométrica Álgebra
