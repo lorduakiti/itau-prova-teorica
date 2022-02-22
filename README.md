@@ -7,7 +7,7 @@ Repositório do código das soluções da prova do processo seletivo do banco It
 ORIENTAÇÕES SOBRE A PROVA
 * A prova tem uma parte prática, para a qual o pacote Anaconda é suficiente (escolher R ou Python (preferencialmente))
 * É esperado que você conheça para cada algoritmo: a função custo, métricas de avaliação da classe de modelos e principais parâmetros a serem otimizados (ver parâmetros do Sklearn)
-* Evite saber de “tudo um pouco” e utilize a lista abaixo como checklist para se especializar nos assuntos.
+* Evite saber de “tudo um pouco” e utilize a [lista abaixo](#conteúdo-da-prova) como checklist para se especializar nos assuntos.
 * Você terá até 3 horas para realização da prova.
 * O teste tem o sistema de correção que a cada resposta errada, uma correta será anulada, portando se não souber deixe a resposta em branco;
 * Não passe as perguntas do teste até o final sem responder; ao chegar na última pergunta o teste será finalizado automaticamente.
